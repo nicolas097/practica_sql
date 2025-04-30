@@ -27,5 +27,5 @@ Este repositorio contiene **consultas avanzadas en SQL** utilizando la base de d
 
 - SQL básico-intermedio
 - MySQL/MariaDB
-- Cliente SQL (HeidiSQL, DBeaver, Workbench)
+- Cliente SQL (DBeaver, Workbench)
 
