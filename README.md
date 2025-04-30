@@ -1,7 +1,6 @@
-# practica_sql
-Repositorio de practicas SQL
 
-# Consultas SQL con la base de datos Chinook 
+# Practica_sql
+Repositorio de practicas SQL
 
 Este repositorio contiene **consultas avanzadas en SQL** utilizando la base de datos Chinook, la cual simula una tienda de música digital.
 
