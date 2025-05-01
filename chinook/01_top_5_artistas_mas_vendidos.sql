@@ -1,6 +1,5 @@
-	SELECT 
-			 COUNT(*) AS cantidad_vendida,
-			 ar.`Name` AS artista
+	SELECT COUNT(*) AS cantidad_vendida,
+			   ar.`Name` AS artista
 	FROM invoiceline il
 	INNER JOIN track tr ON tr.TrackId = il.TrackId
 	INNER JOIN album al ON al.AlbumId = tr.AlbumId
