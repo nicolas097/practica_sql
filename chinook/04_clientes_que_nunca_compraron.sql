@@ -1,5 +1,6 @@
-CREATE TABLE empleados (
-  id INT PRIMARY KEY,
-  nombre VARCHAR(100),
-  salario DECIMAL(10,2)
+SELECT * FROM customer c
+WHERE NOT exists (
+	SELECT  *
+	FROM invoice i
+	WHERE c.CustomerId = i.CustomerId 
 );
