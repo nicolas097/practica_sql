@@ -25,7 +25,7 @@ base de datos Chinook, la cual simula una tienda de música digital.
 5. **Ventas por país y ciudad**  
    Agregar ventas por ubicación geográfica (país y ciudad del cliente).
 
----
+
 
 ## 🧠 Habilidades en práctica
 
