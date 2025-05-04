@@ -2,9 +2,11 @@
 # Practica_sql
 Repositorio de practicas SQL
 
-Este repositorio contiene **consultas avanzadas en SQL** utilizando la base de datos Chinook, la cual simula una tienda de música digital.
+Este repositorio contiene **consultas avanzadas en SQL** utilizando diferenes tipo de bases de datos.
 
-## 📁 Carpeta: `chinook/`
+## 📁 Carpetas: 
+
+`chinook/`
  base de datos Chinook, la cual simula una tienda de música digital.
 
 ### Desafíos:
@@ -26,19 +28,6 @@ Este repositorio contiene **consultas avanzadas en SQL** utilizando la base de d
 
 ---
 
-## 📁 Carpeta: `datasets/`
-
-- `Chinook_MySql.sql`: script para crear e insertar todos los datos necesarios de la base Chinook en MySQL o MariaDB.
----
-
-## 🚀 Cómo usar
-
-1. Importa `Chinook_MySql.sql` en tu base de datos.
-2. Abre cualquiera de los archivos `.sql` del directorio `chinook/`.
-3. Ejecuta las consultas en tu cliente SQL 
-
----
-
 ## 🧠 Habilidades en práctica
 
 - Subconsultas anidadas
@@ -50,3 +39,9 @@ Este repositorio contiene **consultas avanzadas en SQL** utilizando la base de d
 - Lógica condicional (`CASE`)
 
 ---
+
+
+## 📁 datasets/
+
+- `Chinook_MySql.sql`: script para crear e insertar todos los datos necesarios de la base Chinook en MySQL o MariaDB.
+- `financialBD.sql`: script para crear e insertar todos los datos necesarios de la base financialBD en MySQL o MariaDB.
