@@ -75,6 +75,29 @@ Base de datos FinancialDB, orientada a operaciones bancarias reales.
 10. **Top usuarios por tipo de transacción**
    Por cada tipo de transacción (retiro o depósito), muestra el usuario que más veces la ha realizado
 
+
+## 🧠 Habilidades en práctica
+
+   - Subconsultas correlacionadas y no correlacionadas
+
+   - Funciones de agregación (SUM, COUNT, AVG, MAX, etc.)
+
+   - Agrupamiento jerárquico (GROUP BY múltiples niveles)
+
+   - JOINs complejos (INNER, LEFT, anti-joins)
+
+   - Filtros condicionales (WHERE, HAVING)
+
+   - Lógica avanzada con CASE
+
+   - Manipulación de fechas y funciones temporales
+
+   - Ordenamiento por múltiples columnas
+
+   - Simulación de operaciones bancarias
+
+   - Optimización de consultas en bases de datos relacionales
+
 ---
 
 
