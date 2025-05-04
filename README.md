@@ -4,10 +4,9 @@ Repositorio de practicas SQL
 
 Este repositorio contiene **consultas avanzadas en SQL** utilizando diferenes tipo de bases de datos.
 
-## 📁 Carpetas: 
+## 📁 chinook: 
 
-`chinook/`
- base de datos Chinook, la cual simula una tienda de música digital.
+base de datos Chinook, la cual simula una tienda de música digital.
 
 ### Desafíos:
 
