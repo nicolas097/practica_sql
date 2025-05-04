@@ -1,5 +1,5 @@
 
-# Practica_sql
+# Practica SQL
 Repositorio de practicas SQL
 
 Este repositorio contiene **consultas avanzadas en SQL** utilizando diferenes tipo de bases de datos.
